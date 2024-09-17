@@ -1,0 +1,69 @@
+names:
+- DP.135
+- P.102
+- P.103a
+- P.103b
+- P.103c
+- P.104
+- P.106a
+- P.106b
+- P.107a
+- P.112
+- P.115
+- P.117
+- P.123a
+- P.123b
+- P.124a
+- P.124b
+- P.124c
+- P.125
+- P.127
+- P.128
+- P.130
+- P.131a
+- P.137
+- P.245a
+- R.301c
+- R.301d
+- R.301e
+- R.302a
+- R.302b
+- R.303
+- R.407a
+- R.409
+- R.425
+- R.434
+- S.509a
+- W.201a
+- W.201b
+- W.202a
+- W.202b
+- W.203b
+- W.203c
+- W.205a
+- W.205b
+- W.205d
+- W.207a
+- W.207b
+- W.207c
+- W.208
+- W.209
+- W.210
+- W.219
+- W.221b
+- W.224
+- W.225
+- W.227
+- W.233
+- W.235
+- W.245a
+nc: 58
+roboflow:
+  license: Public Domain
+  project: vietnam-traffic-sign-detection-2i2j8
+  url: https://universe.roboflow.com/vietnam-traffic-sign-detection/vietnam-traffic-sign-detection-2i2j8/dataset/6
+  version: 6
+  workspace: vietnam-traffic-sign-detection
+test: /content/datasets/test/images
+train: /content/datasets/train/images
+val: /content/datasets/valid/images
