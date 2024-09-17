@@ -5,5 +5,5 @@ In this project, we aim to assess the potential risks and vulnerabilities of a s
 This is the Final Project of the course Computer Security at HCMUS-APCS. Team members:
   - Ho Viet Bao Long (21125071)
   - Trinh Tran Tran (21125074)
-  - Vo Quang Truong ()
-  - Le Ta Hoang Chuong ()
+  - Vo Quang Truong (21125142)
+  - Le Ta Hoang Chuong (21125105)
